@@ -12,6 +12,8 @@ Open the Python_code in terminal and run the command:
 panel serve Dashboard.ipynb
 ```
 <br>
-
+Thanks to Thu Vu for insipiration: [Link to Youtube](https://www.youtube.com/watch?v=uhxiXOTKzfs&t=305s)
 
 ![Dashboard](https://user-images.githubusercontent.com/55706749/175820820-cccdd973-f929-4a7d-b1cd-5f031520f450.png)
+
+
