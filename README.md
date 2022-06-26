@@ -10,4 +10,6 @@ Open the Python_code in terminal and run the command:
 <br>
 panel serve Dashboard.ipynb
 <br>
-![Screenshot (54)](https://user-images.githubusercontent.com/55706749/175820641-19bd8ff9-1afe-42bc-9ae1-fa1dd02c1f47.png)
+
+
+![Dashboard](https://user-images.githubusercontent.com/55706749/175820820-cccdd973-f929-4a7d-b1cd-5f031520f450.png)
