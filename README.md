@@ -8,7 +8,9 @@ To server the dashboared local, you need to run sql scripts which will create da
 <br>
 Open the Python_code in terminal and run the command:
 <br>
+```
 panel serve Dashboard.ipynb
+```
 <br>
 
 
